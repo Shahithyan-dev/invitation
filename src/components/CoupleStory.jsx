@@ -55,7 +55,7 @@ export default function CoupleStory() {
               <img 
                 src={weddingData.groom.photo} 
                 alt={weddingData.groom.name}
-                className="w-full h-full object-cover rounded-t-full transition-transform duration-700 group-hover:scale-110"
+                className="w-full h-full object-cover object-[25%_20%] rounded-t-full transition-transform duration-700 group-hover:scale-110"
               />
             </div>
             <h3 className="text-3xl font-serif text-wedding-burgundy mb-2">{weddingData.groom.name}</h3>
@@ -70,7 +70,7 @@ export default function CoupleStory() {
               <img 
                 src={weddingData.bride.photo} 
                 alt={weddingData.bride.name}
-                className="w-full h-full object-cover rounded-t-full transition-transform duration-700 group-hover:scale-110"
+                className="w-full h-full object-cover object-[75%_20%] rounded-t-full transition-transform duration-700 group-hover:scale-110"
               />
             </div>
             <h3 className="text-3xl font-serif text-wedding-burgundy mb-2">{weddingData.bride.name}</h3>
