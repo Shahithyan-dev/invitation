@@ -19,7 +19,7 @@ export const weddingData = {
     endTime: "11:00 AM",
     venue: "Uthamar Kovil",
     address: "Near Samayapuram Tollgate, Trichy",
-    mapsUrl: "https://maps.google.com/?q=Uthamar+Kovil,+Trichy",
+    mapsUrl: "https://maps.app.goo.gl/Bwjx69spaRXMaHT3A",
     // REPLACE: Add the main hero photo path here (e.g., '/images/hero.jpg')
     heroPhoto: "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?q=80&w=2000&auto=format&fit=crop",
     // REPLACE: Add the final section background photo here
