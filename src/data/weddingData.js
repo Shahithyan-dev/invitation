@@ -21,17 +21,17 @@ export const weddingData = {
     address: "Near Samayapuram Tollgate, Trichy",
     mapsUrl: "https://maps.app.goo.gl/Bwjx69spaRXMaHT3A",
     // REPLACE: Add the main hero photo path here (e.g., '/images/hero.jpg')
-    heroPhoto: "/images/groom.png",
+    heroPhoto: "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?q=80&w=2000&auto=format&fit=crop",
     // REPLACE: Add the final section background photo here
-    finalPhoto: "/images/bride.png",
+    finalPhoto: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=2000&auto=format&fit=crop",
   },
   
   gallery: [
     // REPLACE: Add gallery photos here
-    "/images/groom.png",
-    "/images/bride.png",
-    "/images/groom.png",
-    "/images/bride.png",
+    "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1583864697784-a0efc8379f70?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1596450514735-111a2fe02935?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?q=80&w=800&auto=format&fit=crop",
   ],
 
   family: {
