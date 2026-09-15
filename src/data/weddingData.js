@@ -3,14 +3,14 @@ export const weddingData = {
     name: "SUNDARARAJAN",
     description: "Celebrating 80 glorious years and a lifetime of love and togetherness.",
     // REPLACE: Add the groom's photo path here (e.g., '/images/groom.jpg')
-    photo: "/images/couple.png"
+    photo: "/images/groom.png"
   },
   
   bride: {
     name: "MAHALAKSHMI",
     description: "The pillar of strength and grace, completing this beautiful journey.",
     // REPLACE: Add the bride's photo path here (e.g., '/images/bride.jpg')
-    photo: "/images/couple.png"
+    photo: "/images/bride.png"
   },
   
   wedding: {
@@ -21,17 +21,17 @@ export const weddingData = {
     address: "Near Samayapuram Tollgate, Trichy",
     mapsUrl: "https://maps.app.goo.gl/Bwjx69spaRXMaHT3A",
     // REPLACE: Add the main hero photo path here (e.g., '/images/hero.jpg')
-    heroPhoto: "/images/couple.png",
+    heroPhoto: "/images/groom.png",
     // REPLACE: Add the final section background photo here
-    finalPhoto: "/images/couple.png",
+    finalPhoto: "/images/bride.png",
   },
   
   gallery: [
     // REPLACE: Add gallery photos here
-    "/images/couple.png",
-    "/images/couple.png",
-    "/images/couple.png",
-    "/images/couple.png",
+    "/images/groom.png",
+    "/images/bride.png",
+    "/images/groom.png",
+    "/images/bride.png",
   ],
 
   family: {
