@@ -3,14 +3,14 @@ export const weddingData = {
     name: "SUNDARARAJAN",
     description: "Celebrating 80 glorious years and a lifetime of love and togetherness.",
     // REPLACE: Add the groom's photo path here (e.g., '/images/groom.jpg')
-    photo: "https://images.unsplash.com/photo-1583864697784-a0efc8379f70?q=80&w=1000&auto=format&fit=crop"
+    photo: "/images/couple.jpg"
   },
   
   bride: {
     name: "MAHALAKSHMI",
     description: "The pillar of strength and grace, completing this beautiful journey.",
     // REPLACE: Add the bride's photo path here (e.g., '/images/bride.jpg')
-    photo: "https://images.unsplash.com/photo-1596450514735-111a2fe02935?q=80&w=1000&auto=format&fit=crop"
+    photo: "/images/couple.jpg"
   },
   
   wedding: {
@@ -21,17 +21,17 @@ export const weddingData = {
     address: "Near Samayapuram Tollgate, Trichy",
     mapsUrl: "https://maps.app.goo.gl/Bwjx69spaRXMaHT3A",
     // REPLACE: Add the main hero photo path here (e.g., '/images/hero.jpg')
-    heroPhoto: "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?q=80&w=2000&auto=format&fit=crop",
+    heroPhoto: "/images/couple.jpg",
     // REPLACE: Add the final section background photo here
-    finalPhoto: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=2000&auto=format&fit=crop",
+    finalPhoto: "/images/couple.jpg",
   },
   
   gallery: [
     // REPLACE: Add gallery photos here
-    "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1583864697784-a0efc8379f70?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1596450514735-111a2fe02935?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?q=80&w=800&auto=format&fit=crop",
+    "/images/couple.jpg",
+    "/images/couple.jpg",
+    "/images/couple.jpg",
+    "/images/couple.jpg",
   ],
 
   family: {
